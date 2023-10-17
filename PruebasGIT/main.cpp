@@ -16,9 +16,14 @@ void FuncionJuanPa()
     cout << "Hola, " << nombre << "! Este es tu mensaje personalizado:\n";
 }
 
+void FuncionALine{
+    cout<<"holaaa\n";
+}
+
 int main()
 {
     FuncionJuanPa();
     FuncionAngel();
+    FuncionAline();
     return 0;
 }
